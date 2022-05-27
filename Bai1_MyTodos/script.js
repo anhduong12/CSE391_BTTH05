@@ -1,0 +1,3 @@
+function xoa(){
+    TodoItem.innerHTML=""
+}
